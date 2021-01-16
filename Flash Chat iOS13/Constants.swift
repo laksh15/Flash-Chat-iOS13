@@ -1,10 +1,3 @@
-//
-//  Constants.swift
-//  Flash Chat iOS13
-//
-//  Created by Lakshay Bhatia on 17/12/20.
-//  Copyright © 2020 Angela Yu. All rights reserved.
-//
 
     struct K {
         static let cellIdentifier = "ReusableCell"
